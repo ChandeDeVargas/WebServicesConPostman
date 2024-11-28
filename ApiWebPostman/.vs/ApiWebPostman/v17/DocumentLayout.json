@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|c:\\users\\cesarhernandez\\desktop\\pss08\\webservices2\\apiwebpostman\\apiwebpostman\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|solutionrelative:apiwebpostman\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|c:\\users\\cesarhernandez\\desktop\\pss08\\webservices2\\apiwebpostman\\apiwebpostman\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|solutionrelative:apiwebpostman\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|c:\\users\\cesarhernandez\\desktop\\pss08\\webservices2\\apiwebpostman\\apiwebpostman\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|solutionrelative:apiwebpostman\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|c:\\users\\cesarhernandez\\desktop\\pss08\\webservices2\\apiwebpostman\\apiwebpostman\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AACC0D-4ACF-42DC-9E1B-F34D845C5D99}|ApiWebPostman\\ApiWebPostman.csproj|solutionrelative:apiwebpostman\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiWebPostman\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiWebPostman\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:51:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiWebPostman\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiWebPostman\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:54:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Data\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "ApiWebPostman\\Data\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Data\\UsuarioData.cs",
+              "RelativeToolTip": "ApiWebPostman\\Data\\UsuarioData.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwEQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:05:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "ApiWebPostman\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Cesarhernandez\\Desktop\\PSS08\\WebServices2\\ApiWebPostman\\ApiWebPostman\\Data\\Conexion.cs",
+              "RelativeToolTip": "ApiWebPostman\\Data\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:59:34.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
