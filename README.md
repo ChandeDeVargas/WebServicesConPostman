@@ -1,17 +1,29 @@
-Cuando se inicia la app saltara con un error, solo utilizaremos el localhost ![image](https://github.com/user-attachments/assets/e8f33bff-3300-4e6d-82c1-02ffbf789bfe)
+# A la hora de ejecutar la app saldra error, es normal, solo utilizaremos esto
+![image](https://github.com/user-attachments/assets/8bf4380c-1204-4345-b7e9-922b590803a0)
 
-#Como utilizar el GET EN POSTMAN 
+# Metodos de la URL 
+GET
+```
 https://localhost:44338/api/usuario/
+```
 
-#Como utilizar el post en postman, Seleccionar la opcion body, Luego Raw y verificar que este en JSON y asi poder agregar
-https://localhost:44338/api/usuario
-Llenar los campos con lo que tu desees el ID y Fecha de registro se agregan automaticamente
-![image](https://github.com/user-attachments/assets/176b12e1-6085-46d5-934d-d678494cf15b)
-
-#COmo usar el PUT en postman, Seleccionar la opcion body, luego Raw y Verificar que este en JSON asi puedes editar
+POST
+```
 https://localhost:44338/api/usuario/
-Obligatoriamente poner el iD y Datos para asi poder editarlos de esta manera 
-![image](https://github.com/user-attachments/assets/6d8d0562-8170-424f-aa58-f7b5004f583d)
+```
 
-#Como usar el Delete en postamn 
-https://localhost:44338/api/usuario/6
+BODY, Aqui podremos agregar al usuario llenando esos campos a la hora de hacer post
+![image](https://github.com/user-attachments/assets/a17a37fa-80b2-4148-b6dc-f0ac741e3f3e)
+
+PUT
+```
+https://localhost:44338/api/usuario/
+```
+
+BODY PARA EDITAR (PUT)
+![image](https://github.com/user-attachments/assets/f726b421-311c-4177-b8c8-52bc394ef42a)
+
+DELETE
+```
+https://localhost:44338/api/usuario/1
+```
